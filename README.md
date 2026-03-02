@@ -38,6 +38,18 @@
 
 ## 🛠️ Tech Stack
 
+**AI Tools & Prompt Engineering**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
+
+---
+
 **Machine Learning & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,17 +74,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-**AI Tools & Prompt Engineering**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
-
----
 
 ## 🌱 Currently Working On
 
