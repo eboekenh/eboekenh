@@ -1,6 +1,6 @@
 # Hi, I'm Ecem👋
 
-> **Engineering-minded AI Specialist | AI Consultant | AI-powered Solution Builder ** 
+> Engineering-minded AI Specialist | AI Consultant | AI-powered Solution Builder 
 > Engineering-minded AI specialist with a strong analytical background and digital mindset. Experienced in analyzing operational and strategic challenges, translating requirements into prioritized tasks and AI-powered solutions with measurable impact.
 
 ---
