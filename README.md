@@ -9,7 +9,7 @@
 
 - 🤖 I build **AI-powered solutions** that translate complex requirements into measurable outcomes
 - 🔬 I design **end-to-end machine learning pipelines** for predictive modelling and classification
-- 💼 I create **career tech tools** combining AI, psychology (IFS, CBT) and job search automation
+- 💼 I create **career tech tools** combining AI, reflexion techniques and job search automation
 - 🌍 Mentor at **ReDI Digital Integration School** — helping newcomers learn data science through real projects
 - 🇩🇪 Based in Germany | Languages: English, German, Turkish
 
