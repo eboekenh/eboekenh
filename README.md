@@ -1,13 +1,14 @@
 # Hi, I'm Ecem👋
 
-> Engineering-minded AI Specialist | AI Consultant | AI-powered Solution Builder 
-> Engineering-minded AI specialist with a strong analytical background and digital mindset. Experienced in analyzing operational and strategic challenges, translating requirements into prioritized tasks and AI-powered solutions with measurable impact.
+> AI Consultant | AI Automation Specialist | AI-powered Solution Builder 
+> Engineering-minded AI consultant with a strong analytical background and digital mindset. Experienced in designing AI workflow automations, analyzing operational and strategic challenges, and translating requirements into scalable AI-powered solutions using no-code/low-code platforms and coding tools.
 
 ---
 
 ## 🧠 About Me
 
 - 🤖 I build **AI-powered solutions** that translate complex requirements into measurable outcomes
+- ⚡ I design **AI workflow automations** using no-code/low-code platforms (Make.com, n8n) and coding tools
 - 🔬 I design **end-to-end machine learning pipelines** for predictive modelling and classification
 - 💼 I create **career tech tools** combining AI, reflexion techniques and job search automation
 - 🌍 Mentor at **ReDI Digital Integration School** — helping newcomers learn data science through real projects
@@ -50,6 +51,15 @@
 
 ---
 
+**AI Automation & No-Code/Low-Code**
+
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
+
+---
+
 **Machine Learning & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -78,9 +88,10 @@
 
 ## 🌱 Currently Working On
 
+- ⚡ Building **AI workflow automations** with no-code/low-code platforms (Make.com, n8n) and coding tools
+- 📚 Growing the **prompt-lib** AI resource library
 - 🔄 Expanding the **PumpPredictor** ML pipeline (feature engineering + model evaluation)
 - 📺 Completing the **YouTube Analytics** notebook series
-- 📚 Growing the **prompt-lib** AI resource library
 
 ---
 
@@ -90,4 +101,4 @@
 
 ---
 
-*"Engineering-minded, data-driven, impact-focused."*
+*"Engineering-minded, automation-driven, impact-focused."*
