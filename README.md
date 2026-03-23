@@ -1,4 +1,4 @@
-# Hi, I'm Ecem👋
+# Hi, I'm Ecem 👋
 
 > AI Consultant | AI Automation Specialist | AI-powered Solution Builder 
 > Engineering-minded AI consultant with a strong analytical background and digital mindset. Experienced in designing AI workflow automations, analyzing operational and strategic challenges, and translating requirements into scalable AI-powered solutions using no-code/low-code platforms and coding tools.
@@ -18,22 +18,25 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Learning & AI
-| Project | Description | Tech |
-|---|---|---|
-| [💧 Pump It Up](https://github.com/eboekenh/PumpPredictor) | Predict water pump operational status in Tanzania — social impact ML | Scikit-learn, Pandas |
-| [🏠 House Price Prediction](https://github.com/eboekenh/House_Price_ML_Light_GBM) | Kaggle competition — predict residential sale prices | LightGBM, Scikit-learn |
-| [🚢 Titanic Survival](https://github.com/eboekenh/Titanic_ML_Random_Forest) | Binary survival classification | Random Forest, Scikit-learn |
-| [🩺 Diabetes Prediction](https://github.com/eboekenh/Diabetes_Prediction_ML_CART) | Predict diabetes onset with interpretable decision trees | CART, Scikit-learn |
-| [📺 YouTube Analytics](https://github.com/eboekenh/youtube-growth-analytics) | End-to-end pipeline: YouTube API → EDA → predictive models + sentiment | XGBoost, VADER, Google API |
+### 🤖 Machine Learning & Data Science
+| Project | Description | Key Results | Tech |
+|---|---|---|---|
+| [💧 Pump It Up](https://github.com/eboekenh/PumpPredictor) | Predict water pump operational status in Tanzania — multi-class classification for social impact | ~82% accuracy (LightGBM) | RF, XGBoost, LightGBM |
+| [🏠 House Price Prediction](https://github.com/eboekenh/House_Price_ML_Light_GBM) | Kaggle competition — predict residential sale prices with 80+ features | 0.126 RMSLE (Kaggle LB) | LightGBM, GridSearchCV |
+| [🚢 Titanic Survival](https://github.com/eboekenh/Titanic_ML_Random_Forest) | Binary survival classification with feature engineering (title, family, age×class) | 82.7% accuracy | Random Forest, GridSearchCV |
+| [🩺 Diabetes Prediction](https://github.com/eboekenh/Diabetes_Prediction_ML_CART) | Predict diabetes onset with interpretable decision trees — healthcare focus | ~75% accuracy | CART, Scikit-learn |
+| [⚾ Hitters Salary](https://github.com/eboekenh/Hitters_ML_Light_GBM) | Predict MLB player salaries from career statistics | RMSE 77.56 | LightGBM, RobustScaler |
+| [🎬 Movie Recommender](https://github.com/eboekenh/Movie_Recommendation_Algorithm) | Hybrid recommender: user-based + item-based collaborative filtering on MovieLens 20M | Top-10 hybrid recs | Pandas, Pearson CF |
+| [⚡ Energy Analysis](https://github.com/eboekenh/Energy_Consumption_Analysis) | Hourly energy consumption analysis with pattern detection and correlation | 4 analysis modules | Pandas, Matplotlib |
 
-### 💼 Career Tech & Productivity Tools
+### 🚀 AI Automation & Career Tools
 | Project | Description | Tech |
 |---|---|---|
-| [🔍 JobSearcher](https://github.com/eboekenh/JobSearcher) | Smart job scraper with AI relevance scoring across multiple platforms | Python, Streamlit, BeautifulSoup |
-| [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coach suggestions | Python, Streamlit |
-| [🌐 Career Journey Support](https://github.com/eboekenh/Careerjourneysupport) | Career support web platform for job seekers | HTML, CSS, JavaScript |
-| [📚 Prompt Library](https://github.com/eboekenh/prompt-lib) | Curated prompts for AI tools, job search, and productivity | Markdown |
+| [🤖 ApplyAuto](https://github.com/eboekenh/job_process_engine) | AI job application engine — CV analysis, cover letters, match scoring via Gemini API | React, Node.js, Gemini |
+| [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coaching insights | Streamlit, HuggingFace |
+| [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | Streamlit, Flask, SQLite |
+| [🌦️ Weather Pipeline](https://github.com/eboekenh/weather-analytics-forecasting-tool) | Real-time weather data collection pipeline with CSV export | Python, OpenWeatherMap API |
+| [🌐 Portfolio](https://github.com/eboekenh/bokenheide-portfolio) | Personal portfolio website — deployed via GitHub Pages | HTML, CSS, GitHub Actions |
 
 ---
 
@@ -75,6 +78,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
@@ -84,20 +88,21 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
 
-
+---
 
 ## 🌱 Currently Working On
 
 - ⚡ Building **AI workflow automations** with no-code/low-code platforms (Make.com, n8n) and coding tools
-- 📚 Growing the **prompt-lib** AI resource library
 - 🔄 Expanding the **PumpPredictor** ML pipeline (feature engineering + model evaluation)
-- 📺 Completing the **YouTube Analytics** notebook series
+- 🤖 Growing **ApplyAuto** — AI-powered job application automation
+- 📚 Curating and expanding the **prompt-lib** AI resource library
 
 ---
 
 ## 📫 Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-eboekenh-181717?style=flat&logo=github)](https://github.com/eboekenh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ecemboekenh/)
 
 ---
 
