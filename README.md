@@ -29,14 +29,20 @@
 | [🎬 Movie Recommender](https://github.com/eboekenh/Movie_Recommendation_Algorithm) | Hybrid recommender: user-based + item-based collaborative filtering on MovieLens 20M | Top-10 hybrid recs | Pandas, Pearson CF |
 | [⚡ Energy Analysis](https://github.com/eboekenh/Energy_Consumption_Analysis) | Hourly energy consumption analysis with pattern detection and correlation | 4 analysis modules | Pandas, Matplotlib |
 
-### 🚀 AI Automation & Career Tools
+### 💼 Career Tools
 | Project | Description | Tech |
 |---|---|---|
-| [🤖 ApplyAuto](https://github.com/eboekenh/job_process_engine) | AI job application engine — CV analysis, cover letters, match scoring via Gemini API | React, Node.js, Gemini |
-| [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coaching insights | Streamlit, HuggingFace |
-| [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | Streamlit, Flask, SQLite |
-| [🌦️ Weather Pipeline](https://github.com/eboekenh/weather-analytics-forecasting-tool) | Real-time weather data collection pipeline with CSV export | Python, OpenWeatherMap API |
-| [🌐 Portfolio](https://github.com/eboekenh/bokenheide-portfolio) | Personal portfolio website — deployed via GitHub Pages | HTML, CSS, GitHub Actions |
+| [🛤️ JobPath](https://github.com/eboekenh/IdeaSpark_JobPath) | IFS-informed job search platform — Kanban board, emotional check-ins, gamification badges, AI job parsing via Gemini | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
+| [🧠 CareerPromptAI](https://github.com/eboekenh/Careerpromptaiv2) | AI Career Research Assistant — enter a career goal, get tailored ChatGPT prompts with sources, export as CSV/Markdown | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coaching insights | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+
+### 🔧 Data & Automation Tools
+| Project | Description | Tech |
+|---|---|---|
+| [🌦️ Weather Pipeline](https://github.com/eboekenh/weather-analytics-forecasting-tool) | Real-time weather data collection pipeline with CSV export | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-E96E50?style=flat) |
+| [🤖 ApplyAuto](https://github.com/eboekenh/job_process_engine) | AI job application engine — CV analysis, cover letters, match scoring via Gemini API | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
+| [🌐 Portfolio](https://github.com/eboekenh/bokenheide-portfolio) | Personal portfolio website — deployed via GitHub Pages | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
@@ -94,7 +100,8 @@
 
 - ⚡ Building **AI workflow automations** with no-code/low-code platforms (Make.com, n8n) and coding tools
 - 🔄 Expanding the **PumpPredictor** ML pipeline (feature engineering + model evaluation)
-- 🤖 Growing **ApplyAuto** — AI-powered job application automation
+- 🛤️ Building **JobPath** — IFS-informed job search platform with gamification & badges
+- 🧠 Developing **CareerPromptAI** — AI career research assistant using Gemini
 - 📚 Curating and expanding the **prompt-lib** AI resource library
 
 ---
