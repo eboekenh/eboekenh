@@ -46,7 +46,13 @@
 
 ## 🛠️ Tech Stack
 
-**Machine Learning & Data Science**
+**AI Agents & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) 
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) 
+
+
+**Data Analytics & Machine Learning **
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
