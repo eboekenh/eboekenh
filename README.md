@@ -94,4 +94,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-eboekenh-181717?style=flat&logo=github)](https://github.com/eboekenh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ecemboekenheide/)
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ecemboekenheide@email.com)
