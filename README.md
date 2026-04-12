@@ -1,6 +1,6 @@
 # Hi, I'm Ecem 👋
 
-> AI oriented engineer & consultant | workflow automations · agents · ML pipelines | Python · LangGraph · Make.com ·
+> AI Engineer & Consultant | workflow automations · agents · ML pipelines | Python · LangGraph · Make.com ·
 
 ---
 
