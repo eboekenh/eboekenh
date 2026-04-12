@@ -18,7 +18,12 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Learning & Data Science
+### 🤖 AI Agents
+| Project | Description | Key Features | Tech |
+|---|---|---|---|
+| [🔬 Research Agent](https://github.com/eboekenh/research_agent) | Autonomous AI research assistant — generates structured, source-cited Markdown reports from any topic with human-in-the-loop clarification | Local LLM · Live web search · Source citations · CLI & Flask web UI · Research history | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) |
+
+### 🧠 Machine Learning & Data Science
 | Project | Description | Key Results | Tech |
 |---|---|---|---|
 | [💧 Pump It Up](https://github.com/eboekenh/PumpPredictor) | Predict water pump operational status in Tanzania — multi-class classification for social impact | ~82% accuracy (LightGBM) | RF, XGBoost, LightGBM |
