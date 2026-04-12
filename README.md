@@ -18,10 +18,34 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Agents
+### 🤖 AI Agents & Tools
 | Project | Description | Key Features | Tech |
 |---|---|---|---|
 | [🔬 Research Agent](https://github.com/eboekenh/research_agent) | Autonomous AI research assistant which generates structured, source-cited Markdown reports from any topic with human-in-the-loop clarification | Local LLM · Live web search · Source citations · CLI & Flask web UI · Research history | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) |
+| [⚙️ Job Process Engine](https://github.com/eboekenh/job_process_engine) | Position analysis automation — batch profile-to-job matching, CV parsing, cover letter generation & fit scoring for all added positions via Gemini | Batch profile matching · CV parsing · Cover letter gen · Fit scoring | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
+| [🧠 CareerPromptAI](https://github.com/eboekenh/Careerpromptaiv2) | AI Career Research Assistant — enter a career goal, get tailored ChatGPT prompts with sources, export as CSV/Markdown | Tailored prompts · Source citations · CSV/Markdown export | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coaching insights | Job requirement parsing · AI coaching insights | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | CRUD operations · Categories · Multi-user auth | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| [🛤️ JobPath](https://github.com/eboekenh/IdeaSpark_JobPath) | IFS-informed job search platform with Kanban board, emotional check-ins, gamification badges, and AI job parsing via Gemini | Kanban board · Emotional check-ins · Gamification · AI job parsing | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
+
+**AI Tools & Prompt Engineering**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
+
+**AI Automation & No-Code/Low-Code**
+
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
+
+---
 
 ### 🧠 Machine Learning & Data Science
 | Project | Description | Key Results | Tech |
@@ -48,27 +72,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-**AI Tools & Prompt Engineering**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
-
----
-
-**AI Automation & No-Code/Low-Code**
-
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
-
----
 
 **Machine Learning & Data Science**
 
