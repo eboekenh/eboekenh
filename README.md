@@ -28,24 +28,6 @@
 | [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | CRUD operations · Categories · Multi-user auth | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | [🛤️ JobPath](https://github.com/eboekenh/IdeaSpark_JobPath) | IFS-informed job search platform with Kanban board, emotional check-ins, gamification badges, and AI job parsing via Gemini | Kanban board · Emotional check-ins · Gamification · AI job parsing | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
 
-**AI Tools & Prompt Engineering**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
-
-**AI Automation & No-Code/Low-Code**
-
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
-
----
 
 ### 🧠 Machine Learning & Data Science
 | Project | Description | Key Results | Tech |
@@ -82,6 +64,24 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**AI Tools & Prompt Engineering**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
+
+**AI Automation & No-Code/Low-Code**
+
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
+
 
 **Web & App Development**
 
