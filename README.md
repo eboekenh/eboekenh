@@ -21,13 +21,13 @@
 ### 🤖 AI Agents
 | Project | Description | Key Features | Tech |
 |---|---|---|---|
-| [🔬 Research Agent](https://github.com/eboekenh/research_agent) | Autonomous AI research assistant — generates structured, source-cited Markdown reports from any topic with human-in-the-loop clarification | Local LLM · Live web search · Source citations · CLI & Flask web UI · Research history | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) |
+| [🔬 Research Agent](https://github.com/eboekenh/research_agent) | Autonomous AI research assistant which generates structured, source-cited Markdown reports from any topic with human-in-the-loop clarification | Local LLM · Live web search · Source citations · CLI & Flask web UI · Research history | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) |
 
 ### 🧠 Machine Learning & Data Science
 | Project | Description | Key Results | Tech |
 |---|---|---|---|
-| [💧 Pump It Up](https://github.com/eboekenh/PumpPredictor) | Predict water pump operational status in Tanzania — multi-class classification for social impact | ~82% accuracy (LightGBM) | RF, XGBoost, LightGBM |
-| [🏠 House Price Prediction](https://github.com/eboekenh/House_Price_ML_Light_GBM) | Kaggle competition — predict residential sale prices with 80+ features | 0.126 RMSLE (Kaggle LB) | LightGBM, GridSearchCV |
+| [💧 Pump It Up](https://github.com/eboekenh/PumpPredictor) | Predict water pump operational status in Tanzania, multi-class classification for social impact | ~82% accuracy (LightGBM) | RF, XGBoost, LightGBM |
+| [🏠 House Price Prediction](https://github.com/eboekenh/House_Price_ML_Light_GBM) | Kaggle competition, predict residential sale prices with 80+ features | 0.126 RMSLE (Kaggle LB) | LightGBM, GridSearchCV |
 | [🚢 Titanic Survival](https://github.com/eboekenh/Titanic_ML_Random_Forest) | Binary survival classification with feature engineering (title, family, age×class) | 82.7% accuracy | Random Forest, GridSearchCV |
 | [🩺 Diabetes Prediction](https://github.com/eboekenh/Diabetes_Prediction_ML_CART) | Predict diabetes onset with interpretable decision trees — healthcare focus | ~75% accuracy | CART, Scikit-learn |
 | [⚾ Hitters Salary](https://github.com/eboekenh/Hitters_ML_Light_GBM) | Predict MLB player salaries from career statistics | RMSE 77.56 | LightGBM, RobustScaler |
@@ -37,13 +37,13 @@
 ### 💼 Career & Automation Tools
 | Project | Description | Tech |
 |---|---|---|
-| [🛤️ JobPath](https://github.com/eboekenh/IdeaSpark_JobPath) | IFS-informed job search platform — Kanban board, emotional check-ins, gamification badges, AI job parsing via Gemini | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
-| [🧠 CareerPromptAI](https://github.com/eboekenh/Careerpromptaiv2) | AI Career Research Assistant — enter a career goal, get tailored ChatGPT prompts with sources, export as CSV/Markdown | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🛤️ JobPath](https://github.com/eboekenh/IdeaSpark_JobPath) | IFS-informed job search platform, Kanban board, emotional check-ins, gamification badges, AI job parsing via Gemini | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
+| [🧠 CareerPromptAI](https://github.com/eboekenh/Careerpromptaiv2) | AI Career Research Assistant, enter a career goal, get tailored ChatGPT prompts with sources, export as CSV/Markdown | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | [⚙️ Job Process Engine](https://github.com/eboekenh/job_process_engine) | Position analysis automation — batch profile-to-job matching, CV parsing, cover letter generation & fit scoring for all added positions via Gemini | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) |
 | [🧠 JobGenius](https://github.com/eboekenh/JobGenius) | Parse job requirements & get AI career-coaching insights | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) |
 | [📝 Prompt Manager](https://github.com/eboekenh/prompt_manager) | AI prompt library with CRUD, categories, and multi-user auth | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | [🌦️ Weather Pipeline](https://github.com/eboekenh/weather-analytics-forecasting-tool) | Real-time weather data collection pipeline with CSV export | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-E96E50?style=flat) |
-| [🌐 Portfolio](https://github.com/eboekenh/bokenheide-portfolio) | Personal portfolio website — deployed via GitHub Pages | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| [🌐 Portfolio](https://github.com/eboekenh/bokenheide-portfolio) | Personal portfolio website, deployed via GitHub Pages | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
@@ -99,10 +99,8 @@
 
 ## 🌱 Currently Working On
 
-- ⚡ Building **AI workflow automations** with no-code/low-code platforms (Make.com, n8n) and coding tools
+- ⚡ Building **AI agents, workflow automations** with no-code/low-code platforms (Make.com, n8n) and coding tools
 - 🔄 Expanding the **PumpPredictor** ML pipeline (feature engineering + model evaluation)
-- 🛤️ Building **JobPath** — IFS-informed job search platform with gamification & badges
-- 🧠 Developing **CareerPromptAI** — AI career research assistant using Gemini
 - 📚 Curating and expanding the **prompt-lib** AI resource library
 
 ---
