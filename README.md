@@ -18,10 +18,29 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Agents
+### 🤖 AI Agents & Tools
 | Project | Description | Key Features | Tech |
 |---|---|---|---|
 | [🔬 Research Agent](https://github.com/eboekenh/research_agent) | Autonomous AI research assistant which generates structured, source-cited Markdown reports from any topic with human-in-the-loop clarification | Local LLM · Live web search · Source citations · CLI & Flask web UI · Research history | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) |
+
+**AI Tools & Prompt Engineering**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
+
+**AI Automation & No-Code/Low-Code**
+
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
+
+---
 
 ### 🧠 Machine Learning & Data Science
 | Project | Description | Key Results | Tech |
@@ -48,27 +67,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-**AI Tools & Prompt Engineering**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF385C?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C47FF?style=flat)
-
----
-
-**AI Automation & No-Code/Low-Code**
-
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
-![AI Workflow Automation](https://img.shields.io/badge/AI%20Workflow%20Automation-00B4D8?style=flat)
-
----
 
 **Machine Learning & Data Science**
 
