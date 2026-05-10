@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-- 🤖 I develop **AI agents and workflow automations** using Python, LangGraph, Make.com, and n8n
+- 🤖 I develop **AI tools and workflow automations** using Python,LangChain, LangGraph, Make.com, and n8n
 - 🔬 I build **end-to-end machine learning pipelines** for predictive modelling and classification
 - 💼 I develop **career tech tools** combining AI, IFS-informed UX, and job search automation
 - 🔧 I enjoy building solutions that improve workflows in measurable ways while keeping benchmarking, robustness, and real business value in mind
