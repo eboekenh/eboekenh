@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🔍 I build **RAG systems** — from hybrid retrieval with local LLMs to cloud-based document chatbots
+- 🔍 I build **RAG systems**, from hybrid retrieval with local LLMs to cloud-based document chatbots
 - 🤖 I develop **AI agents and workflow automations** using LangGraph, LangChain, Make.com, and n8n
 - 🔬 I build **end-to-end ML pipelines** for classification and predictive modelling
 - 🔧 I focus on solutions with measurable business impact, automating workflows, reducing manual work, and making AI practically usable
