@@ -78,13 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ecem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eboekenh&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eboekenh&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ecemboekenheide-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecemboekenheide)
