@@ -1,6 +1,6 @@
 # Hi, I'm Ecem 👋
 
-> **Engineer & AI Developer** · RAG Systems · AI Agents · ML Pipelines · Workflow Automation  
+> **Energy Engineer & AI Developer** · RAG Systems · AI Agents · ML Pipelines · Workflow Automation  
 > Python · LangChain · LangGraph · Ollama · Gemini · Streamlit
 
 ---
